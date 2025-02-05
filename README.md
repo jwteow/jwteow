@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Justin, I am from Malaysia and I am a Universtiy of Melbourne 2024 graduate that majored in Computer and Software Systems. 
+
+- 😃 Some things I built whilst at Uni that I am proud of is a pacman game and a dijkstra solver
+- 🌱 I’m currently refining my skills in Python, C/C++ and Java.
+
 <!--
 **jwteow/jwteow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
