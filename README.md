@@ -3,7 +3,7 @@
 My name is Justin, I am from Malaysia and I am a University of Melbourne 2024 graduate that majored in Computer and Software Systems. 
 
 - 😃 Some things I built whilst at Uni that I am proud of is a pacman gamea and a dijkstra solver
-- 🤖 In my final year of my degree, I was apart of a team working on an IT Capstone Project
+- 🤖 I was a lead developer in my team working on an IT Capstone Project in my final year of university
 - 🌱 I’m currently refining my skills in Python, C/C++ and Java.
 
 <!--
